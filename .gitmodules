@@ -1,9 +1,9 @@
-[submodule "waterbug-device"]
-	path = waterbug-device
-	url = https://github.com/codefoster/waterbug-device.git
-[submodule "waterbug-ui"]
-	path = waterbug-ui
-	url = http://github.com/codefoster/waterbug-ui
-[submodule "waterbug-server"]
-	path = waterbug-server
-	url = http://github.com/codefoster/waterbug-server
+[submodule "astrow-device"]
+	path = astrow-device
+	url = https://github.com/astrow/astrow-device
+[submodule "astrow-ui"]
+	path = astrow-ui
+	url = http://github.com/astrow/astrow-ui
+[submodule "astrow-server"]
+	path = astrow-server
+	url = http://github.com/astrow/astrow-server
