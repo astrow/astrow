@@ -1,5 +1,4 @@
-# waterbug
-An app for helping you win on your WaterRower
+#Astrow
 
 #project status
 Waterbug is coming along, but there's still a lot to do. We would love for you to help. Email me at jeremy.foster@microsoft.com if you have any questions.
