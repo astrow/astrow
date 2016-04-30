@@ -7,6 +7,7 @@ We have forked the waterbug project thanks to [@codefoster](http://github.com/co
 
 We are using Azure Server for our cloud needs and the Intel Edison devkit for our hardware needs.
 
+Grab our presentation at https://docs.google.com/presentation/d/1iIy8HWpbitpG8wQ-iGSZESdTrA8JyN9Nn-z1Izg-ZBU
 
 
 
